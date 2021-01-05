@@ -1,5 +1,3 @@
-[TOC]
-
 #### TSNode
 
 This is a simple project that uses NodeJS, Typescript, and MongoDB.
